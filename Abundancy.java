@@ -1,7 +1,7 @@
 import java.util.HashSet;
 import java.util.Scanner;
 
-public class Abundance{
+public class Abundancy{
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         HashSet<Integer> factors = new HashSet<>();
